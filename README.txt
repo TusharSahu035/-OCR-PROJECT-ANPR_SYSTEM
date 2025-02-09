@@ -28,7 +28,7 @@ pip install opencv-python numpy pillow tkinter
 ### **2.1 Clone or Download the Project**
 If you are using Git:
 ```bash
-git clone https://github.com/your-repo/ANPR.git
+git clone https://github.com/TusharSahu035/-OCR-PROJECT-ANPR_SYSTEM
 cd ANPR
 ```
 Or manually download the project and extract it to a directory.
